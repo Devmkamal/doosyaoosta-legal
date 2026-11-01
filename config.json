@@ -2,5 +2,6 @@
   "android": {
     "minVersionCode": 2,
     "latestVersionCode": 2
-  }
+  },
+  "serverUrl": "https://doos.nourbyte.com"
 }
