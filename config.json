@@ -5,6 +5,17 @@
   },
   "serverUrl": "https://doos.nourbyte.com",
   "ads": {
-    "enabled": true
+    "enabled": false,
+    "autoReward": false,
+    "unitDoubleTakings": "ca-app-pub-1774156067690114/6450061457",
+    "unitCancelFine": "ca-app-pub-1774156067690114/9775062948",
+    "unitTryBus": "ca-app-pub-1774156067690114/1533997887",
+    "unitDailyDouble": "ca-app-pub-1774156067690114/1864783333",
+    "unitEraseCrash": "ca-app-pub-1774156067690114/8486032008",
+    "iosUnitDoubleTakings": "ca-app-pub-1774156067690114/4471774535",
+    "iosUnitCancelFine": "ca-app-pub-1774156067690114/3158692862",
+    "iosUnitTryBus": "ca-app-pub-1774156067690114/2312727089",
+    "iosUnitDailyDouble": "ca-app-pub-1774156067690114/5457553146",
+    "iosUnitEraseCrash": "ca-app-pub-1774156067690114/7373482071"
   }
 }
